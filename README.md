@@ -1,6 +1,6 @@
 # SIGN LANGUAGE PREDICTION
 <p align="center">
-    <img width=300px height=200px src="https://www.pngfind.com/pngs/m/156-1569754_sign-language-clipart-love-hands-silhouette-hd-png.png" alt="Project logo"></a>
+    <img width=300px height=200px src="https://scx2.b-cdn.net/gfx/news/hires/2017/signlanguage.png" alt="Project logo"></a>
 </p>
     
 <h3 align="center">Sign Language Prediction</h3>
