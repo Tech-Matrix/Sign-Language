@@ -18,7 +18,7 @@
 - [Dataset](#dataset)
 
 ## 🤔 About <a name = "about"></a>
-The aim of the project is to bridge the gap between the speech and hearing impaired people and the normal people. The basic idea of this project is to make a system using which dumb people can significantly communicate with all other people using their normal gestures. The project uses image processing system to identify sign languages and converts them into text that normal people can understand
+The aim of the project is to bridge the gap between the speech and hearing impaired people and the normal people. The basic idea of this project is to make a system using which dumb people can significantly communicate with all other people using their normal gestures. The project uses image processing system to identify sign language shown by the user and generates results in the form of training and test accuracy.
 
 ## 🖊 Prerequisites <a name="prerequisites"></a>
  Python libraries used
