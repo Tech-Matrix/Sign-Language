@@ -1,6 +1,6 @@
 # SIGN LANGUAGE PREDICTION
 <p align="center">
-    <img width=300px height=200px src="https://scx2.b-cdn.net/gfx/news/hires/2017/signlanguage.png" alt="Project logo"></a>
+    <img width=300px height=200px src="https://1.bp.blogspot.com/-8SxmsK5VoJ0/XVrTpMrJDFI/AAAAAAAAEiM/nAa3vuj8a2sjgEPAeMKXD4m09yKUgjVIQCLcBGAs/s1600/Screenshot%2B2019-08-19%2Bat%2B9.51.25%2BAM.png" alt="Project logo"></a>
 </p>
     
 <h3 align="center">Sign Language Prediction</h3>
