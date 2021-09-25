@@ -58,7 +58,7 @@ on any platform
 Python libraries:
 ```
 - [OpenCV](https://sourceforge.net/projects/opencvlibrary) 
-- [Matplotlib](https://en.wikipedia.org/wiki/Matplotlib)
+- [Matplotlib](https://matplotlib.org/)
 - [Torch](https://pypi.org/project/torch/)
 - [Numpy](https://numpy.org/)
 
